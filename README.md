@@ -25,3 +25,12 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 * [FireEye real-time cyber attack map](https://www.fireeye.com/cyber-map/threat-map.html) - it shows the top attacked verticals for the past 30 days.
 * [Web Application Attacks by akamai](https://globe.akamai.com/) -
 
+---
+
+## Exposed Passwords and Emails
+
+* [SecLists Passwords directory](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - The Passwords directory will hold a number of password lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
+
+
+
+---
