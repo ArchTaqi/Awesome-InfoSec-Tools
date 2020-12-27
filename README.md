@@ -5,6 +5,7 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 ### Contents
 
 - [Linux Commands You Must Know](#linux-commands-you-must-know)
+- [Live Cyber Attack Maps](#live-cyber-attack-maps)
     
 ---
 
@@ -15,3 +16,12 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 * [history](https://man7.org/linux/man-pages/man3/history.3.html) - It shows the history of commands you have issued since the start of the session.
 
 ---
+
+## Live Cyber Attack Maps
+
+* [Kaspersky Lab cyber attack](https://cybermap.kaspersky.com) - Real-time worldwide cyber attack map is from Kaspersky Lab. it also works great on phones. Click "statistics" to easily find lots of details on where the data is coming from and scan the attack rankings for the day.
+* [SonicWall live cyber attacks map](https://securitycenter.sonicwall.com/m/page/worldwide-attacks) - it shows which countries are top attack targets right now and the average number of cyber attacks per site for the day, among other things like the type of attaches i.e Web app attacks, ransomware etc.
+* [Bitdefender's real-time cyber threat map](https://threatmap.bitdefender.com/) - it shows list of infections and attacks around the globe in real time.
+* [FireEye real-time cyber attack map](https://www.fireeye.com/cyber-map/threat-map.html) - it shows the top attacked verticals for the past 30 days.
+* [Web Application Attacks by akamai](https://globe.akamai.com/) -
+
