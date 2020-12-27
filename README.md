@@ -30,7 +30,7 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 ## Exposed Passwords and Emails
 
 * [SecLists Passwords directory](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - The Passwords directory will hold a number of password lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
-
+* [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 
 
 ---
