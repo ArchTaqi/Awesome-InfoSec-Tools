@@ -34,3 +34,10 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 
 
 ---
+
+## Tools
+
+* [NMAP](https://nmap.org) - NMAP tells you all the devices within your network and makes a network map.
+* [Zapproxy](https://github.com/zaproxy/zaproxy) -  One of the world’s most popular free security tool. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications.
+
+
