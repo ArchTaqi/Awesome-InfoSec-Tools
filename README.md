@@ -4,10 +4,21 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 
 ### Contents
 
+- [Exploit Databases](#exploit-databases)
 - [Linux Commands You Must Know](#linux-commands-you-must-know)
 - [Live Cyber Attack Maps](#live-cyber-attack-maps)
     
 ---
+
+---
+
+## Exploit Databases
+
+- [CVE Exploit](https://cve.mitre.org/)
+- [Exploit DB](https://www.exploit-db.com/)
+
+
+
 
 ## Linux Commands You Must Know
 
