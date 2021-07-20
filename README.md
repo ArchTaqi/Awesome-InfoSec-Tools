@@ -8,6 +8,7 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 - [Exploit Databases](#exploit-databases)
 - [Linux Commands You Must Know](#linux-commands-you-must-know)
 - [Live Cyber Attack Maps](#live-cyber-attack-maps)
+- [Spyware Technology](#spyware-technology)
 
 ---
 
@@ -50,6 +51,11 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 
 * [SecLists Passwords directory](https://github.com/danielmiessler/SecLists/tree/master/Passwords) - The Passwords directory will hold a number of password lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
 * [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
+
+
+## Spyware Technology
+
+- [Pegasus Spyware](https://youtu.be/G7H9uo3j5FQ)
 
 
 ---
