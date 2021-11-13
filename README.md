@@ -20,9 +20,17 @@ A curated list of Resources for developing Ethical Hacking &amp; Information Sec
 ## Exploit Databases
 
 - [CVE Exploit](https://cve.mitre.org)
+- [NVD NIST](https://nvd.nist.gov/)
 - [Exploit DB](https://www.exploit-db.com)
 - [VulDb](https://vuldb.com)
 - [CVE Details](https://www.cvedetails.com)
+
+
+## Vulnerabilities Detector
+
+- [Snyk](https://snyk.io/)
+- [Ossindex Sonatype](https://ossindex.sonatype.org/)
+- [RetireJS](https://github.com/RetireJS/retire.js)
 
 
 ## Linux Commands You Must Know
